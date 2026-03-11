@@ -1,0 +1,48 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Clang/formatting
+.clang-format
+.clangd
+.clang-tidy
+
+# Git
+.git/
+.gitignore
+
+# Documentation (keep source, exclude generated)
+*.pdf
+*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Other
+*.log
+*.tmp
+.DS_Store

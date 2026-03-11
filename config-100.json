@@ -1,0 +1,406 @@
+{
+  "url": "wss://ws-subscriptions-clob.polymarket.com/ws/market",
+  "assets": [
+    {
+      "id": "75467129615908319583031474642658885479135630431889036121812713428992454630178",
+      "label": "bitboy-convicted"
+    },
+    {
+      "id": "3842963720267267286970642336860752782302644680156535061700039388405652129691",
+      "label": "bitboy-convicted"
+    },
+    {
+      "id": "8501497159083948713316135768103773293754490207922884688769443031624417212426",
+      "label": "russia-ukraine-ceasefire-before-gta-vi-554"
+    },
+    {
+      "id": "2527312495175492857904889758552137141356236738032676480522356889996545113869",
+      "label": "russia-ukraine-ceasefire-before-gta-vi-554"
+    },
+    {
+      "id": "98022490269692409998126496127597032490334070080325855126491859374983463996227",
+      "label": "new-rhianna-album-before-gta-vi-926"
+    },
+    {
+      "id": "53831553061883006530739877284105938919721408776239639687877978808906551086026",
+      "label": "new-rhianna-album-before-gta-vi-926"
+    },
+    {
+      "id": "88275040060084773376557187972215267513049848642895776801789297917961077894224",
+      "label": "new-playboi-carti-album-before-gta-vi-421"
+    },
+    {
+      "id": "94376205816022955542979635542279932967359915765455578534002478996104754801969",
+      "label": "new-playboi-carti-album-before-gta-vi-421"
+    },
+    {
+      "id": "90435811253665578014957380826505992530054077692143838383981805324273750424057",
+      "label": "will-jesus-christ-return-before-gta-vi-665"
+    },
+    {
+      "id": "92388629082681805622801622703528982922543286352927708208755887536971583436902",
+      "label": "will-jesus-christ-return-before-gta-vi-665"
+    },
+    {
+      "id": "108999723207897941876452935557011604067917389120996960199512481363958770540884",
+      "label": "trump-out-as-president-before-gta-vi-846"
+    },
+    {
+      "id": "64533579809297525579033609963634939501013332859992608996100633472507000251907",
+      "label": "trump-out-as-president-before-gta-vi-846"
+    },
+    {
+      "id": "21695138873211375451055566770107682325494206727818897067665810321709249824909",
+      "label": "will-china-invades-taiwan-before-gta-vi-716"
+    },
+    {
+      "id": "17516427576383382756368467656206258206490015951115433065318503962238754362428",
+      "label": "will-china-invades-taiwan-before-gta-vi-716"
+    },
+    {
+      "id": "105267568073659068217311993901927962476298440625043565106676088842803600775810",
+      "label": "will-bitcoin-hit-1m-before-gta-vi-872"
+    },
+    {
+      "id": "91863162118308663069733924043159186005106558783397508844234610341221325526200",
+      "label": "will-bitcoin-hit-1m-before-gta-vi-872"
+    },
+    {
+      "id": "8441400852834915183759801017793514978104486628517653995211751018945988243154",
+      "label": "gta-vi-released-before-june-2026"
+    },
+    {
+      "id": "109289569086508934142323222102974769075074494425163878721602922903101062859033",
+      "label": "gta-vi-released-before-june-2026"
+    },
+    {
+      "id": "24327803960645909378149041810697343640752122608192367041827900158592826352552",
+      "label": "will-harvey-weinstein-be-sentenced-to-no-prison-time"
+    },
+    {
+      "id": "86488478623677188352872801318507143761188967461168408688159600382919967378486",
+      "label": "will-harvey-weinstein-be-sentenced-to-no-prison-time"
+    },
+    {
+      "id": "77166477669007661974218999697956080000161736671391584414287437514245884953047",
+      "label": "will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison"
+    },
+    {
+      "id": "47055352475798285920984907840917431698812931301054546103955312973973172985230",
+      "label": "will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison"
+    },
+    {
+      "id": "8585617872562550075367684165842985213222082790621129799520234539666057750015",
+      "label": "will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison"
+    },
+    {
+      "id": "103705222348348023632358209307161171933864556870678885035120650593331360918837",
+      "label": "will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison"
+    },
+    {
+      "id": "15540133404064485946536607974212890170021691204987131841181394872998839987451",
+      "label": "will-harvey-weinstein-be-sentenced-to-between-10-and-20-years-in-prison"
+    },
+    {
+      "id": "63603874958591978684257718702104189214159397118281244112857573557732401361881",
+      "label": "will-harvey-weinstein-be-sentenced-to-between-10-and-20-years-in-prison"
+    },
+    {
+      "id": "40689385937970031985272152180777653235879119412231903065658922913468759560353",
+      "label": "will-harvey-weinstein-be-sentenced-to-between-20-and-30-years-in-prison"
+    },
+    {
+      "id": "109223657334725476924710634471321315385389367621714474291402615707818729630121",
+      "label": "will-harvey-weinstein-be-sentenced-to-between-20-and-30-years-in-prison"
+    },
+    {
+      "id": "87036266705700330884624690101790543034325645582506946990660049003915176778714",
+      "label": "will-harvey-weinstein-be-sentenced-to-more-than-30-years-in-prison"
+    },
+    {
+      "id": "26608800110066527607246656145735191327716408714826934367635297922290688100618",
+      "label": "will-harvey-weinstein-be-sentenced-to-more-than-30-years-in-prison"
+    },
+    {
+      "id": "69497259499564904327437411778598106057943098225196700538590387556685558432215",
+      "label": "will-openai-launch-a-new-consumer-hardware-product-by-march-31-2026"
+    },
+    {
+      "id": "15235916682414645873512796594946768179124144849305245659656321561016071235505",
+      "label": "will-openai-launch-a-new-consumer-hardware-product-by-march-31-2026"
+    },
+    {
+      "id": "21296624965887450804742516563526632324551397901259017139941826024484477821625",
+      "label": "will-italy-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "18548531003403642447433063414362700271595227164711314812182704727637563149074",
+      "label": "will-italy-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "110029858924336699886026160037881747408385035792394181068515946764057130818147",
+      "label": "will-sweden-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "99703503368997111194608314266540465795915641214072272571967517894792021713802",
+      "label": "will-sweden-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "107726477169398763643300346937218981578070170096670253959564188912978677384086",
+      "label": "will-poland-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "80511008047143651192857715625240574605223081773209557920997784819412822146093",
+      "label": "will-poland-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "90954386001801116059251303598368900188182195794057114134644084985964418752977",
+      "label": "will-ukraine-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "94516923452105222578438916262485145756699194265211313859088449971552829623384",
+      "label": "will-ukraine-qualify-for-the-2026-fifa-world-cup"
+    },
+    {
+      "id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+      "label": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "40473977441010332007887229299980126707900816205713676157646215720073415416624",
+      "label": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "80061984358752599784693370376997592727558961379567449932508186368496986212029",
+      "label": "will-the-florida-panthers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "42433583546409205693938411606863251812283085544286252379883028411752918173253",
+      "label": "will-the-florida-panthers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "26994926807159308505531352241892510362185630293975165092400997815774500370214",
+      "label": "will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "93243135936056253080731148169253301176422868656587067154045597758216732275467",
+      "label": "will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "17581551835670188629115760053820570516688258623733228909199148495084738589631",
+      "label": "will-the-dallas-stars-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "48350886075645487969183664927181889134443172406220772590108122172302333217567",
+      "label": "will-the-dallas-stars-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "101738487887518832481587379955535423775326921556438741919099866785354159699479",
+      "label": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "87978082071653935678874296685430503892266481242311708420787197372467948088235",
+      "label": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
+      "label": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "58534831224432332845742394199681128700782343287162911891204466367752298448751",
+      "label": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "35573117698117780238142713946749692621043319879346349609080985768472429209643",
+      "label": "will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "76626937605855383085159195963889428951048025160807952406004049979161449392204",
+      "label": "will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "75497690502531380056390405612014900797768656980504946546336044296003833597355",
+      "label": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "2729425106258568059271359452117793887389510413905823490566998620570283391162",
+      "label": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "83053136095375464518484635535538303979818736083252284786624282549893531568449",
+      "label": "will-the-new-jersey-devils-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "28342067911960552115358272066240777232595262486860946251344574810276141891103",
+      "label": "will-the-new-jersey-devils-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "99302435322944813052105841164428761175935099146724842887228853211763294863784",
+      "label": "will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "114873494229479412417798215532571359940253151535176943495434840259150573052987",
+      "label": "will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "32761305560497515266298907010603238583784271883422104419001315861857080693737",
+      "label": "will-the-toronto-maple-leafs-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "30580289066077385758914266674062143052968657613582607009092130555241353168752",
+      "label": "will-the-toronto-maple-leafs-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "89607539467374084618016881443767018676837500055609025995679802231807669451541",
+      "label": "will-the-washington-capitals-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "94050134900986983016097201951730545344521023881338999145214939216138319853878",
+      "label": "will-the-washington-capitals-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "8632114599242481428657290920457928145465118150352562816049752984278653204354",
+      "label": "will-the-new-york-rangers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "38164917785960547058897753715153399631236008787392479420647504474970728279061",
+      "label": "will-the-new-york-rangers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "52122163926965666340769912737036425235018536048643947600257470162508745804215",
+      "label": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "8670072980013890450224478921744074220453109802844788568180411173557818867412",
+      "label": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "52393600221905688380980180540161090876971894580569515967716227210336633318551",
+      "label": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "21431572216384228534336063536634350950418274877940611814171622998125116043513",
+      "label": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "77381084121703585434442737895792916741546405992903866299069398776973629407962",
+      "label": "will-the-utah-mammoth-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "113689564696134010397605001832750509195155730029258888570920506901252575318870",
+      "label": "will-the-utah-mammoth-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "95906133471794193454744901623691925557845709993144309634376654892470898743791",
+      "label": "will-the-st-louis-blues-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "16733963691769584309423280660375771179010096967188890232332330083461305887988",
+      "label": "will-the-st-louis-blues-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "57745051474175280715827307490433711376781914565134185656043688787803746924931",
+      "label": "will-the-vancouver-canucks-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "57570727462566321730404354146447303221727390678709525312520457788305050508188",
+      "label": "will-the-vancouver-canucks-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "100198467481990754389879542132900146141512359428605143337944632886324000145723",
+      "label": "will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "53611027669372139007790641596033292035302146631496758994013659593681089555225",
+      "label": "will-the-new-york-islanders-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "89876650777103845660381011502618435196005005316371719080379226306122186643898",
+      "label": "will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "103499896493634243542593138704667892499128832763387792529972229935046936155180",
+      "label": "will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "6772099324721707224715070437205709623671146843087680984461675764599992554029",
+      "label": "will-the-columbus-blue-jackets-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "89449176936226644848783012576486654336480746280426703687616042913707102840919",
+      "label": "will-the-columbus-blue-jackets-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "54811975275387163364864047298373893386525828579003336506827163723659384966681",
+      "label": "will-the-calgary-flames-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "17418807248757707943441849488237613682726174832918019086909228030480182452290",
+      "label": "will-the-calgary-flames-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "98049742009801855771548452791429416975406795240797895877767309269050997573962",
+      "label": "will-the-nashville-predators-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "22756397632925411304173147389943983888502615032147937432114667609184398573143",
+      "label": "will-the-nashville-predators-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "105820657025478857015993206354412568572835231572443865502882842764049428172501",
+      "label": "will-the-detroit-red-wings-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "45136148810315305870452576886510362427640366994007423764308837182211154771126",
+      "label": "will-the-detroit-red-wings-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "1755198236548058730692725634969806667163093356894670716555961840777456036471",
+      "label": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "110385100135551380027074853970241483263713796301174664674312206071534212241565",
+      "label": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "114248353339288476395516704859280406139740194553592209059241667781908210476009",
+      "label": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "85705323099460694144578384076010167420188174879039498210125410497783582291911",
+      "label": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "96156230578747105661476819749931380321917772151891667564189808442987244872145",
+      "label": "will-the-boston-bruins-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "24789905903899678448437032359677789820642352076173124534790862885285353082845",
+      "label": "will-the-boston-bruins-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "86989765000750155883097827320609652927052275812009422751609183177638176999827",
+      "label": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "27567623701936433796601303407226067803713696645804713742508261420706593984700",
+      "label": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "8851645587670338204652278122922654341568030658294043049798551516787478126093",
+      "label": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "105159591365972907779164323332625661203129821196625530161327324705373588468320",
+      "label": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "93578935246439858671952440209676574631482293371193006735950832216315542606620",
+      "label": "will-the-seattle-kraken-win-the-2026-nhl-stanley-cup"
+    },
+    {
+      "id": "22614639934737231103078181951140576782531926669564122537824995796049418461331",
+      "label": "will-the-seattle-kraken-win-the-2026-nhl-stanley-cup"
+    }
+  ],
+  "cpu": 0
+}
